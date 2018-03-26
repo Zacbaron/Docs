@@ -64,10 +64,6 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-    - title: Administration
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
       subfolders:
         - title: Company Specific Features
           output: web
@@ -89,9 +85,9 @@ entries:
             url: /tag_formatting.html
             output: web
             
-    - title: 
-      url: 
-      output: pdf
+    - title: Administration
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
       
       subfolders:
         - title: Member Specific Features
