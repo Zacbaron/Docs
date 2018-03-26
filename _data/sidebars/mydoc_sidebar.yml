@@ -89,6 +89,31 @@ entries:
             url: /tag_formatting.html
             output: web
 
+      subfolders:
+        - title: Member Specific Features
+          output: web
+          subfolderitems:
+
+          - title: Home
+            url: /tag_formatting.html
+            output: web
+
+          - title: Contributions
+            url: /tag_formatting.html
+            output: web
+
+          - title: Entitlements
+            url: /tag_formatting.html
+            output: web
+
+          - title: Self Employed Returns
+            url: /tag_formatting.html
+            output: web
+
+          - title: Finance
+            url: /tag_formatting.html
+            output: web
+            
   - title: Installation
     output: web, pdf
     folderitems:
