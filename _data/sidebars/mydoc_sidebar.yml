@@ -20,32 +20,24 @@ entries:
       type: frontmatter
 
   - title: Summary
-    url: /index.html
-    output: web, pdf
-
-  - title: Overview
     output: web, pdf
     folderitems:
 
-    - title: MEMBERCRM Summary
+    - title: MEMBERCRM
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Back Office
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Company Portal
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Member Portal
       url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
       output: web, pdf
 
   - title: Release Notes
