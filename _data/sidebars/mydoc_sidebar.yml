@@ -89,7 +89,7 @@ entries:
             url: /tag_formatting.html
             output: web
             
-    - title: Administration
+    - title: 
       url: /mydoc_release_notes_50.html
       output: web, pdf
       
