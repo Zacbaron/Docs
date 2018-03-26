@@ -1,7 +1,7 @@
 ---
 title: "MEMBER CRM Overview"
-keywords: sample homepage
-tags: [MEMBER CRM Overview]
+keywords: home MEMBERCRM
+tags: [MEMBER CRM, Overview]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: A brief overview of MEMBERCRM and formation technology.
