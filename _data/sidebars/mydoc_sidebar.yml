@@ -69,6 +69,15 @@ entries:
       output: web, pdf
 
       subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Formatting pages
+          url: /tag_formatting.html
+          output: web
+
+      subfolders:
         - title: Company Specific Features
           output: web
           subfolderitems:
