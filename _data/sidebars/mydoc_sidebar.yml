@@ -90,8 +90,8 @@ entries:
             output: web
             
     - title: 
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
+      url: 
+      output: 
       
       subfolders:
         - title: Member Specific Features
