@@ -1,7 +1,7 @@
 ---
-title: Support
-tags: [getting_started, troubleshooting]
-keywords: questions, troubleshooting, contact, support
+title: Conrtibutions
+tags: [member, contributions]
+keywords: contributions, member, days
 last_updated: July 3, 2016
 summary: "Contact me for any support issues."
 sidebar: mydoc_sidebar
