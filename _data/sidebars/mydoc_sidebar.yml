@@ -19,6 +19,10 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Summary
+    url: /index.html
+    output: web, pdf
+
   - title: Overview
     output: web, pdf
     folderitems:
@@ -183,10 +187,6 @@ entries:
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
 
   - title: Publishing
     output: web, pdf
