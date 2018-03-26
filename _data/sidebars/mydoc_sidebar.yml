@@ -89,10 +89,6 @@ entries:
             url: /tag_formatting.html
             output: web
 
-    - title: Finance
-       url: /tag_formatting.html
-       output: web
-
       subfolders:
         - title: Member Specific Features
           output: web
