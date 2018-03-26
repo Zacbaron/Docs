@@ -40,17 +40,79 @@ entries:
       url: /mydoc_about.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Back Office
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: Dashboard and Menu Overview
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: Company / Member Search
       url: /mydoc_release_notes_50.html
       output: web, pdf
+    
+    - title: Finance
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+    - title: Operations
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+    - title: Reports
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+    - title: Administration
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+      subfolders:
+        - title: Company Specific Features
+          output: web
+          subfolderitems:
+
+          - title: Company Dashboard Home
+            url: /tag_formatting.html
+            output: web
+
+          - title: Returns
+            url: /tag_formatting.html
+            output: web
+
+          - title: Employees
+            url: /tag_formatting.html
+            output: web
+
+          - title: Finance
+            url: /tag_formatting.html
+            output: web
+
+      subfolders:
+        - title: Member Specific Features
+          output: web
+          subfolderitems:
+
+          - title: Home
+            url: /tag_formatting.html
+            output: web
+
+          - title: Contributions
+            url: /tag_formatting.html
+            output: web
+
+          - title: Entitlements
+            url: /tag_formatting.html
+            output: web
+
+          - title: Self Employed Returns
+            url: /tag_formatting.html
+            output: web
+
+          - title: Finance
+            url: /tag_formatting.html
+            output: web
 
   - title: Installation
     output: web, pdf
