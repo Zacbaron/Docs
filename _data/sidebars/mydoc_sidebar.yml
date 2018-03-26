@@ -91,7 +91,7 @@ entries:
             
     - title: 
       url: 
-      output: web
+      output: pdf
       
       subfolders:
         - title: Member Specific Features
