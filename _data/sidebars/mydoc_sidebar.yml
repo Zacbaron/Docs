@@ -89,9 +89,9 @@ entries:
             url: /tag_formatting.html
             output: web
             
-      - title: 
-        url:
-        output:
+    - title:
+      url:
+      output:
 
       subfolders:
         - title: Member Specific Features
