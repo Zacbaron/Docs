@@ -69,7 +69,7 @@ entries:
           output: web
           subfolderitems:
 
-          - title: Company Dashboard Home
+          - title: Home
             url: /tag_formatting.html
             output: web
 
