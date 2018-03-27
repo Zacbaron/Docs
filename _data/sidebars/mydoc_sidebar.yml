@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: Back Office
-      url: /mydoc_introduction.html
+      url: /mydoc_backoffice.html
       output: web, pdf
 
     - title: Company Portal
