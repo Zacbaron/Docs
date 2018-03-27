@@ -119,35 +119,35 @@ entries:
     folderitems:
 
     - title: Dashboard and Menu Overview
-      url: /mydoc_about_ruby_gems_etc.html
+      url: /mydoc_member_portal_dashboard.html
       output: web, pdf
 
     - title: My Detail
-      url: /mydoc_install_jekyll_on_mac.html
+      url: /mydoc_member_portal_mydetails.html
       output: web, pdf
 
     - title: Authorised Contacts
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_authorised_contacts.html
       output: web, pdf
 
     - title: My Member Card
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_member_card.html
       output: web, pdf
 
     - title: Contributions
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_contributions.html
       output: web, pdf
 
     - title: Entitlements
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_entitlements.html
       output: web, pdf
 
     - title: Self Employed Returns
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_sereturns.html
       output: web, pdf
 
     - title: Contact Us
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_member_portal_contactus.html
       output: web, pdf
 
   - title: Company Portal
@@ -155,29 +155,29 @@ entries:
     folderitems:
     
     - title: Dashboard and Menu Overview
-      url: /mydoc_pages.html
+      url: /mydoc_company_portal_dashboard.html
       output: web, pdf
 
     - title: Returns
-      url: /mydoc_posts.html
+      url: /mydoc_company_portal_returns.html
       output: web, pdf
 
     - title: Employees
-      url: /mydoc_lists.html
+      url: /mydoc_company_portal_employees.html
       output: web, pdf
 
     - title: Company Details
-      url: /mydoc_conditional_logic.html
+      url: /mydoc_company_portal_details.html
       output: web, pdf
 
     - title: Contacts
-      url: /mydoc_content_reuse.html
+      url: /mydoc_company_portal_contacts.html
       output: web, pdf
 
     - title: Addresses
-      url: /mydoc_collections.html
+      url: /mydoc_company_portal_addresses.html
       output: web, pdf
 
     - title: Contact Us
-      url: /mydoc_webstorm_text_editor.html
+      url: /mydoc_company_portal_contactus.html
       output: web, pdf
