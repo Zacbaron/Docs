@@ -1,5 +1,5 @@
 ---
-title: Supported features
+title: Company Portal
 keywords: "company portal"
 summary: "Summary of the Company Portal"
 sidebar: mydoc_sidebar
