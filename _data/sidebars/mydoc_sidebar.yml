@@ -19,14 +19,10 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Summary
+  - title: What is MEMBER CRM
+    url: /index.html
     output: web, pdf
-    folderitems:
-
-    - title: MEMBERCRM
-      url: /index.html
-      output: web, pdf
-      type: homepage
+    type: homepage
 
   - title: Back Office
     output: web, pdf
