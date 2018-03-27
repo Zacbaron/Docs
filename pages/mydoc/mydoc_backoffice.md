@@ -3,6 +3,7 @@ title: Back Office
 sidebar: mydoc_sidebar
 permalink: mydoc_backoffice.html
 folder: mydoc
+toc: false
 ---
 
 ## Back Office Summary
