@@ -4,12 +4,13 @@ keywords: home MEMBERCRM
 tags: [MEMBER CRM, Overview]
 sidebar: mydoc_sidebar
 permalink: index.html
+toc: false
 summary: A brief overview of MEMBERCRM and formation technology.
 ---
 
 MEMBER CRM is a platform designed to manage worker entitlement funds. It is a highly intuitive, simple to use cloud or in-house hosted solution which delivers operational excellence for all parts of your business. Members love our user-friendly online portals to view account status and submit benefit payments. Employers will appreciate the convenience of modern electronic returns and invoice processes.
 
-MEMBER CRM is a highly configurable platform that supports a variety of contribution types including:
+### MEMBER CRM is a highly configurable platform that supports a variety of contribution types including:
 
  - Redundancy Payments
  - Employment Termination Payments
@@ -17,6 +18,3 @@ MEMBER CRM is a highly configurable platform that supports a variety of contribu
  - Insurance Premiums
  - Training Levies 
  - Membership Fees
-
-
-{% include links.html %}
