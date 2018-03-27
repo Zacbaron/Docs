@@ -8,4 +8,5 @@ toc: false
 ---
 
 ## Back Office Summary
-hello this is the back office summary
+
+MEMBER CRM’s back office is where administrators and operators view, edit, and create returns, invoices, reports and more for administration and management purposes.
