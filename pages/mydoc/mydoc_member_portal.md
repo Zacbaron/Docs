@@ -9,4 +9,5 @@ toc: false
 ---
 
 ### Member Portal Summary
-Hello
+
+The Member Portal is the access point for employees to view and manage their contributions and claims, as well as their account details.
