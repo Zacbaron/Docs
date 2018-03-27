@@ -45,7 +45,7 @@ entries:
     folderitems:
 
     - title: Dashboard and Menu Overview
-      url: /dashboard_and_menu_overview.html
+      url: /mydoc_dashboard_and_menu_overview.html
       output: web, pdf
 
     - title: Company / Member Search
