@@ -17,3 +17,5 @@ The SE Returns page displays a comprehensive list of all the SE returns associat
 {% include image.html file="backoffice/membersreturnslist.png" alt="Member Returns List" caption="Member Returns List" %}
 
 {% include image.html file="backoffice/memberreturnview.png" alt="Member Rerturn View" caption="Member Return View" %}
+
+Back office operators are also able to create new SE Returns, or view the SE Returns more in depth, and view any invoices and receipts linked to the return.
