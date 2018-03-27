@@ -9,4 +9,7 @@ toc: false
 ---
 
 ### My Details Summary
-i am the admin hello!@!@#%%TFDAYOOOOOOOOO el spastico
+
+MEMBER CRM provides members with the option to edit (or request to edit) their details within the portal. A member is able to update their contact details, change passwords, address information, and security questions.
+
+{% include image.html file="portal/memberprofile.png" alt="Member Profile" caption="Member Portal Profile" %}
