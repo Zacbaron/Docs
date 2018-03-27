@@ -33,11 +33,11 @@ entries:
       output: web, pdf
 
     - title: Company Portal
-      url: /mydoc_supported_features.html
+      url: /mydoc_company_portal.html
       output: web, pdf
 
     - title: Member Portal
-      url: /mydoc_about.html
+      url: /mydoc_member_portal.html
       output: web, pdf
 
   - title: Back Office
