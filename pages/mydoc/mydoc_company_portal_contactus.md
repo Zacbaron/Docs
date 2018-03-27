@@ -10,6 +10,6 @@ toc: false
 
 ### Company Portal Contact Us
 
-MEMBER CRM features a facility to enable companies to communicate directly and securely with the fund.
+Member CRM features a facility to enable companies to communicate directly and securely with the fund.
 
 {% include image.html file="portal/companycontactus.png" alt="Company Contact Us" caption="Company Portal Contact Us" %}

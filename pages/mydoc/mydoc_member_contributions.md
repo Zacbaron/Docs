@@ -10,7 +10,7 @@ toc: false
 
 ### Member Contributions Summary
 
-MEMBER CRM displays a comprehensive list of a members contributions. back office operators are able to view alter the format in which the information is displayed by year, period, and by employer. The page also displays the weekly ordinary pay for a member.
+Member CRM displays a comprehensive list of a members contributions. back office operators are able to view alter the format in which the information is displayed by year, period, and by employer. The page also displays the weekly ordinary pay for a member.
 
 {% include image.html file="backoffice/membercontributions.png" alt="Member Contributions" caption="Member Contributions" %}
 

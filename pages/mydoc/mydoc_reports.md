@@ -10,7 +10,7 @@ toc: false
 
 ### Reports Summary
 
-The Reports dashboard conveniently displays all the reports that MEMBER CRM can generate. A back office operator is able to intuitively create these reports either ad hoc or automatically through MEMBER CRM’s generation system.
+The Reports dashboard conveniently displays all the reports that Member CRM can generate. A back office operator is able to intuitively create these reports either ad hoc or automatically through Member CRM’s generation system.
 
 The available reports to generate are:
 

@@ -10,7 +10,7 @@ toc: false
 
 ### Operations Summary
 
-The Operations dashboard is a hub for back office operators to be able to move seamlessly between MEMBER CRM’s various operational tasks. These tasks (including day-to-day or periodic processes) include:
+The Operations dashboard is a hub for back office operators to be able to move seamlessly between Member CRM’s various operational tasks. These tasks (including day-to-day or periodic processes) include:
 
  - New Company List - New companies in pending state 
  - Entitlements List - Entitlements to be approved. 

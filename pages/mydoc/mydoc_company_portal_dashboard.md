@@ -16,4 +16,4 @@ The Dashboard is the landing page for companies for the portal. The page display
 
 The company portal menu provides easy access to navigate to key areas of the portal. The top menu allows companies to manage their account, view their recent activity on their account, change their password, and log off.
 
-MEMBER CRM also has the functionality that if a company contact is associated to multiple companies, they are able to switch in between them inside of the portal without logging in and out. This is also available in the top menu.
+Member CRM also has the functionality that if a company contact is associated to multiple companies, they are able to switch in between them inside of the portal without logging in and out. This is also available in the top menu.
