@@ -14,7 +14,7 @@ Self Employed Returns (SE Returns) are generated for members who are contributin
 
 The SE Returns page displays a comprehensive list of all the SE returns associated to the member. MEMBER CRM displays returns in their different states, allowing a back office operator to intuitively view what returns are open, being edited, or have been finalised and paid out.
 
-{% include image.html file="backoffice/membersreturnslist.png" alt="Member Returns List" caption="Member Returns List" %}
+{% include image.html file="backoffice/membersereturnslist.png" alt="Member SE Returns List" caption="Member SE Returns List" %}
 
 {% include image.html file="backoffice/memberreturnview.png" alt="Member Rerturn View" caption="Member Return View" %}
 
