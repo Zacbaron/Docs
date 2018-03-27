@@ -9,3 +9,5 @@ toc: false
 ---
 
 ### Company Portal Summary
+
+The Company Portal is the access point for Company contacts to view and manage returns and employees, as well as the account details.
