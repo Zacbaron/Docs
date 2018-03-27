@@ -28,18 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Back Office
-      url: /mydoc_backoffice.html
-      output: web, pdf
-
-    - title: Company Portal
-      url: /mydoc_company_portal.html
-      output: web, pdf
-
-    - title: Member Portal
-      url: /mydoc_member_portal.html
-      output: web, pdf
-
   - title: Back Office
     output: web, pdf
     folderitems:
