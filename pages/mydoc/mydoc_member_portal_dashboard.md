@@ -9,4 +9,11 @@ toc: false
 ---
 
 ### Dashboard and Menu Summary
-i am the admin hello!@!@#%%TFD
+
+The Dashboard is the landing page for members for the portal. The page displays a general overview of the member’s account and recent activity.
+
+The Dashboard also displays information for members on how to apply for long service leave.
+
+{% include image.html file="portal/memberdashboard.png" alt="Member Portal Dashboard" caption="Member Portal Dashboard" %}
+
+The member portal menu provides easy access to navigate to the key areas of the portal. The top menu allows members to manage their account, view their recent activity on their account, change their password, and log off.
