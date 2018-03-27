@@ -3,8 +3,6 @@
 topnav:
 - title: Topnav
   items:
-    - title: Formation Technology
-      external_url: http://www.formation.com.au
 
 #Topnav dropdowns
 topnav_dropdowns:
