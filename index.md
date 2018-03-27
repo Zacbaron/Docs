@@ -1,7 +1,6 @@
 ---
 title: "MEMBER CRM Overview"
 keywords: home MEMBERCRM
-tags: [MEMBER CRM, Overview]
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
