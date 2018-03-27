@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Summary
+  - title: MEMBER CRM
     output: web, pdf
     folderitems:
 
