@@ -9,4 +9,11 @@ toc: false
 ---
 
 ### Company Returns Summary
-gbrfd EEAEAS
+
+The Returns page displays an extensive list of all the returns associated to the company, its details, and their state of completion. back office operators are able to view, edit, and create new returns ad hoc from this page. 
+
+Returns are generated periodically and are configurable to meet the specifications of the fund manager. 
+
+{% include image.html file="backoffice/companyreturnslist.png" alt="Company Returns List" caption="Company Returns List" %}
+
+{% include image.html file="backoffice/companyreturnview.png" alt="Company Return View" caption="Company Return View" %}
