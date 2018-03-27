@@ -4,7 +4,7 @@ keywords: home MEMBER CRM
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
-summary: An to MEMBER CRM and formation technology.
+summary: An overview of Member CRM and Formation Technology.
 ---
 
 MEMBER CRM is a platform designed to manage worker entitlement funds. It is a highly intuitive, simple to use cloud or in-house hosted solution which delivers operational excellence for all parts of your business. Members love our user-friendly online portals to view account status and submit benefit payments. Employers will appreciate the convenience of modern electronic returns and invoice processes.
