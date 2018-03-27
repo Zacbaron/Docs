@@ -17,3 +17,5 @@ MEMBER CRM is a platform designed to manage worker entitlement funds. It is a hi
  - Insurance Premiums
  - Training Levies 
  - Membership Fees
+
+{% include image.html file="backoffice/infographic.png" alt="Infographic" caption="Infographic" %}
