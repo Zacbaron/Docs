@@ -10,6 +10,6 @@ toc: false
 
 ### Company Portal Company Details
 
-MEMBER CRM displays the basic information about the company to companies. The displayed information about the company cannot be edited through the portal by users. This can only be done via the back office.
+Member CRM displays the basic information about the company to companies. The displayed information about the company cannot be edited through the portal by users. This can only be done via the back office.
 
 {% include image.html file="portal/companyprofile.png" alt="Company Profile" caption="Company Portal Profile" %}

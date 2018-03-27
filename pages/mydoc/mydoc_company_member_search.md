@@ -12,7 +12,7 @@ toc: false
 
 {% include image.html file="backoffice/search.png" alt="search" caption="Member / Company Search" %}
 
-MEMBER CRM features a keyword search function that is available for both members and companies. A back office operator is able to enter in any information regarding a member or company, for instance a name, phone number, address, registration ID etc. 
+Member CRM features a keyword search function that is available for both members and companies. A back office operator is able to enter in any information regarding a member or company, for instance a name, phone number, address, registration ID etc. 
 
 The back office operator can also filter the list by either Active, Inactive or Deregistered accounts. 
 

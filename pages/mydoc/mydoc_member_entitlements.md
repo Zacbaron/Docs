@@ -10,7 +10,7 @@ toc: false
 
 ### Member Entitlements Summary
 
-MEMBER CRM displays a comprehensive list of claims for a member within the Entitlements page. Here back office operators are able to view, edit or delete previous claims, as well as create new claims.
+Member CRM displays a comprehensive list of claims for a member within the Entitlements page. Here back office operators are able to view, edit or delete previous claims, as well as create new claims.
 All claims have different displayed states of completion which intuitively allows users to easily view and identify the list of claims.
 
 {% include image.html file="backoffice/memberentitlements.png" alt="Member Entitlements" caption="Member Entitlements" %}

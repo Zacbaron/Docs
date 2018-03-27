@@ -10,7 +10,7 @@ toc: false
 
 ### Company Portal Returns
 
-MEMBER CRM displays a detailed and comprehensive list of all returns associated to the company. Companies are able to easily navigate the list by the return status, displaying which returns require attention, are being processed by the back office, and which have been paid.
+Member CRM displays a detailed and comprehensive list of all returns associated to the company. Companies are able to easily navigate the list by the return status, displaying which returns require attention, are being processed by the back office, and which have been paid.
 
 {% include image.html file="portal/companyreturnlist.png" alt="Company Returns List" caption="Company Portal Returns List" %}
 
