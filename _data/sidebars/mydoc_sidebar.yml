@@ -45,23 +45,23 @@ entries:
     folderitems:
 
     - title: Dashboard and Menu Overview
-      url: /mydoc_release_notes_60.html
+      url: /dashboard_and_menu_overview.html
       output: web, pdf
 
     - title: Company / Member Search
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_company_member_search.html
       output: web, pdf
     
     - title: Finance
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_finance.html
       output: web, pdf
 
     - title: Operations
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_operations.html
       output: web, pdf
 
     - title: Reports
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_reports.html
       output: web, pdf
 
       subfolders:
@@ -70,23 +70,23 @@ entries:
           subfolderitems:
 
           - title: Home
-            url: /tag_formatting.html
+            url: /mydoc_company_home.html
             output: web
 
           - title: Returns
-            url: /tag_formatting.html
+            url: /mydoc_company_returns.html
             output: web
 
           - title: Employees
-            url: /tag_formatting.html
+            url: /mydoc_company_employees.html
             output: web
 
           - title: Finance
-            url: /tag_formatting.html
+            url: /mydoc_company_finance.html
             output: web
             
     - title: Administration
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_administration.html
       output: web, pdf
       
       subfolders:
@@ -95,23 +95,23 @@ entries:
           subfolderitems:
 
           - title: Home
-            url: /tag_formatting.html
+            url: /mydoc_member_home.html
             output: web
 
           - title: Contributions
-            url: /tag_formatting.html
+            url: /mydoc_member_contributions.html
             output: web
 
           - title: Entitlements
-            url: /tag_formatting.html
+            url: /mydoc_member_entitlements.html
             output: web
 
           - title: Self Employed Returns
-            url: /tag_formatting.html
+            url: /mydoc_member_SEreturns.html
             output: web
 
           - title: Finance
-            url: /tag_formatting.html
+            url: /mydoc_member_finance.html
             output: web
             
   - title: Member Portal
