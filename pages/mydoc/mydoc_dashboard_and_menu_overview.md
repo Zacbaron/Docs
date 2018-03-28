@@ -13,7 +13,7 @@ toc: false
 
 The Dashboard is the landing page for back office operators. From here a back office operator can manage new company registrations, verify new workers, and processing returns or claims. The dashboard also features a task list for the back office operator (My Activities).
 
-Member CRM captures several hundred discrete actions performed by all users in the system and serves these actions up in a timeline (aka activity feed). The timeline is displayed on key pages such as a company or member’s profile and is the key ingredients in delivering exceptional KPI reporting and insights into stakeholder activity.
+Member CRM captures several hundred discrete actions performed by all users in the system and serves these actions up in a timeline (aka activity feed). The timeline is displayed on key pages such as a company or member’s profile and is the key ingredient in delivering exceptional KPI reporting and insights into stakeholder activity.
 
 {% include image.html file="backoffice/dashboard.png" alt="Dashboard" caption="Dashboard and Menus" %}
 
