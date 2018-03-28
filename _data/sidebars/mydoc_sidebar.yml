@@ -105,7 +105,11 @@ entries:
   - title: Member Portal
     output: web, pdf
     folderitems:
-
+    
+    - title: Self Service Portal Access
+      url: /mydoc_member_portal_access.html
+      output: web, pdf
+      
     - title: Dashboard and Menu Overview
       url: /mydoc_member_portal_dashboard.html
       output: web, pdf
@@ -141,7 +145,11 @@ entries:
   - title: Company Portal
     output: web, pdf
     folderitems:
-    
+
+    - title: Company Portal Access
+      url: /mydoc_company_portal_access.html
+      output: web, pdf
+
     - title: Dashboard and Menu Overview
       url: /mydoc_company_portal_dashboard.html
       output: web, pdf
