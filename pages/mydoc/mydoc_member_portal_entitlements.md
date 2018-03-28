@@ -10,8 +10,10 @@ toc: false
 
 ### Entitlements
 
-The Entitlements page displays a comprehensive list of all entitlements associated to the member profile.
+The Entitlements page displays a list of current and historical entitlements.
+
+Members can create new claims from the member portal, and or edit claims prior to being approved/processed by a back office operator.
 
 {% include image.html file="portal/memberentitlements.png" alt="Member Entitlements" caption="Member Portal Entitlements" %}
 
-Member CRM also carries the functionality that allows members the ability to create new claims from the member portal. members are also able to edit these claims before being processed, and may view them at any time.
+When submitting a return, a member must upload supporting documentation / proof of identity for an entitlement. The supporting documentation required is a copy of the member’s driver’s license and a current bank statement.
