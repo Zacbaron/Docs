@@ -10,7 +10,7 @@ toc: false
 
 ### Company Employees Summary
 
-The Employees page displays a complete list of all the members that are currently working and associated to the company. Member CRM also provides back office operators the option to view all members no longer working for the company.
+The Employees page displays a list of current and historical employees associated to a company.
 
 {% include image.html file="backoffice/companyemployees.png" alt="Company Employees" caption="Company Employees" %}
 
