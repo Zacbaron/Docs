@@ -17,13 +17,13 @@ System administrators will enjoy the configuration and system management feature
 Some of the system functions available to an administrator include:
 
 Fund configuration
- - Member CRM provides the facility to create one or more funds. A fund supports the collection of worker entitlement contributions made by employers on behalf of their members, or members on behalf of themselves.  A fund also manages the payment of benefits to a member.
+- MEMBER CRM provides the facility to create one or more funds. A fund supports the collection of worker entitlement contributions made by 
+employers on behalf of their members, or members on behalf of themselves.  A fund also manages the payment of benefits to a member.
 
 User Roles and Permissions
-- Member CRM employs a variety of security features to protect your data from external users. Within Member CRM, back office operators are assigned a role and each roles is given permission to access one or more areas and or functions. 
+- Within MEMBER CRM, back office operators are assigned to one or more roles and each roles is given permission to access one or more areas and or functions. These roles and permissions are configurable to ensure delegation of duties are aligned to your company processes. 
 
 List Management
-- System administrators can update a variety of lists and where available configure system functionality within those lists.
+- System administrators can update a variety of lists and where available, configure system functionality within those lists.
+Scheduled Tasks - There are many scheduled tasks which are performed by the system on a periodic basis, which are available for administrators to view and report for audit purposes.
 
-Scheduled Tasks
-- There are many scheduled tasks which are performed by the system on a periodic basis which are available for administrators to view and report for audit purposes.
