@@ -10,8 +10,8 @@ toc: false
 
 ### Contributions
 
-The Contributions page displays a comprehensive list of the members contributions; listing the companies, return periods, service type, period pay, and total days.
+The Contributions page displays a comprehensive list of the members contributions. The list includes contributions by employers, return periods, service type, period pay, and total days.
 
 {% include image.html file="portal/membercontributions.png" alt="Member Contributions" caption="Member Portal Contributions" %}
 
-Member CRM displays the information in a intuitive manner, so that members can easily understand and view their information.
+Member CRM displays the information in an intuitive manner so that members can easily understand their contribution data.
