@@ -10,9 +10,9 @@ toc: false
 
 ### Member Finance Summary
 
-Member CRM displays an extensive list of transactions associated to a member. All transactions have hyperlinks attached to them, so a back office operator is able to navigate to the return or transaction with ease.
+MEMBER CRM displays an extensive list of transactions associated to a member. All transactions have hyperlinks attached to them to enable a back office operator to navigate to the return, invoice, or transaction with ease.
 
-Transactions will only appear for a member if they are contributing as a Self Employed, Contractor or Working Director. 
+Transactions will only appear for a member if they are contributing as a Self Employed, Contractor or Working Director.
 
 {% include image.html file="backoffice/memberfinance.png" alt="Member Finance" caption="Member Finance" %}
 
