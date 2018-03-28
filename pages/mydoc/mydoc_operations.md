@@ -12,14 +12,15 @@ toc: false
 
 The Operations dashboard is a hub for back office operators to be able to move seamlessly between Member CRM’s various operational tasks. These tasks (including day-to-day or periodic processes) include:
 
- - New Company List - New companies in pending state 
- - Entitlements List - Entitlements to be approved. 
- - Refunds List - Refunds List for company or member 
- - New Member List - New members pending review 
- - Deregister Batch List - Batches for deregistration of Members 
- - Submitted Returns Pending Review - Returns submitted by companies that require review 
- - Returns By Owner - Returns by owner 
- - Tasks - Tasks 
- - Correspondence - Correspondence
+ - New Company List - Approve new company registrations 
+ - Entitlements List - Review and approve entitlements. 
+ - Refunds List - Refunds for company or member (i.e. outbound payments) pending approval.
+ - New Member List - New members pending review who were added by employers when processing returns online. 
+ - Deregister Batch List - Manage deregistration of members based on fund specific rules. 
+ - Returns Pending Review - Returns submitted by companies that require review 
+ - Returns By Owner - A list or returns assigned to an operator. 
+ - Tasks - A list of all tasks by due date for one or more users. 
+ - Correspondence - A list of inbound correspondence (e.g. Email, SMS, Documents) that require review and or action.
+
 
 {% include image.html file="backoffice/operations.png" alt="Operations" caption="Operations" %}
