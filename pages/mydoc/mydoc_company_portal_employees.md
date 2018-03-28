@@ -10,7 +10,7 @@ toc: false
 
 ### Company Portal Employees
 
-The Employees page displays a comprehensive list of all the employees associated to the company. Companies are able to view each employee in greater detail, and are also able to view all employees that are no longer working for the company.
+A list of employees associated to the company is displayed. Companies are able to view each employee in greater detail, and are also able to view all employees that are no longer working for the company.
 
 {% include image.html file="portal/companyemployees.png" alt="Company Employees" caption="Company Portal Employees" %}
 
