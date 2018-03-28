@@ -146,8 +146,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Company Portal Access
-      url: /mydoc_company_portal_access.html
+    - title: Company Portal Registration
+      url: /mydoc_company_portal_registration.html
       output: web, pdf
 
     - title: Dashboard and Menu Overview
