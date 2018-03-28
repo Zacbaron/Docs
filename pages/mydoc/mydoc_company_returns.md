@@ -10,9 +10,11 @@ toc: false
 
 ### Company Returns Summary
 
-The Returns page displays an extensive list of all the returns associated to the company, its details, and their state of completion. back office operators are able to view, edit, and create new returns ad hoc from this page. 
+The Returns page displays a list of all the returns associated to the company. Back office operators are able to view, edit, and create new returns from this page. 
 
-Returns are generated periodically and are configurable to meet the specifications of the fund manager. 
+Returns are generated periodically (or adhoc) and are configurable to meet the specifications of the fund manager. 
+
+To ensure back office operators do not overwrite adjustments to a return, an operator must take ownership of a return prior to editing it. This ensures no other operator can adjust a return when it is owned by another operator. 
 
 {% include image.html file="backoffice/companyreturnslist.png" alt="Company Returns List" caption="Company Returns List" %}
 
