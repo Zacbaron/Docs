@@ -15,4 +15,4 @@ MEMBER CRM provides back office operators the ability to view financial informat
 
 {% include image.html file="backoffice/companyfinance.png" alt="Company Finance" caption="Company Finance" %}
 
-Back office operators also have the option to create new invoices, credit notes, or manage refunds from this page.
+Back office operators also have the option to create new invoices, credit notes, or manage refunds (with workflow and approvals) from this page.
