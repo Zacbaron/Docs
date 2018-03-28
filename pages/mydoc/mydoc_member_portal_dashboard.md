@@ -10,9 +10,9 @@ toc: false
 
 ### Dashboard and Menu Summary
 
-The Dashboard is the landing page for members for the portal. The page displays a general overview of the member’s account and recent activity.
+The Dashboard is the landing page for a member when they access the portal. The page displays a general overview of a member’s account and recent activity.
 
-The Dashboard also displays information for members on how to apply for long service leave.
+The Dashboard also displays information for members on how to apply for a benefit payment.
 
 {% include image.html file="portal/memberdashboard.png" alt="Member Portal Dashboard" caption="Member Portal Dashboard" %}
 
