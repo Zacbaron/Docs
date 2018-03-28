@@ -162,16 +162,8 @@ entries:
       url: /mydoc_company_portal_employees.html
       output: web, pdf
 
-    - title: Company Details
-      url: /mydoc_company_portal_details.html
-      output: web, pdf
-
-    - title: Contacts
-      url: /mydoc_company_portal_contacts.html
-      output: web, pdf
-
-    - title: Addresses
-      url: /mydoc_company_portal_addresses.html
+    - title: Company Profile and Contacts
+      url: /mydoc_company_portal_profileandcontacts.html
       output: web, pdf
 
     - title: Contact Us
