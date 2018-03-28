@@ -10,19 +10,19 @@ toc: false
 
 ### Reports Summary
 
-The Reports dashboard conveniently displays all the reports that Member CRM can generate. A back office operator is able to intuitively create these reports either ad hoc or automatically through Member CRM’s generation system.
+The Reports dashboard conveniently displays all the reports provided by MEMBER CRM. A back office operator is able to generate these reports either ad hoc or automatically through MEMBER CRM’s report management system.
 
 The available reports to generate are:
 
 Finance
  - Annual Statements - Generate annual worker benefit statements.
  - Debtors Report - Generate a list of aged receivables.
- - Entitlement Details - Generate a list of Entitlements.
+ - Entitlement Details - Generate a list of entitlements.
  - Payments Summary Report - ATO PAYG Report.
  - Payments Report - A list of claim payments by date paid.
  - Refunds Report - A list of refunds by date paid.
  - Receipts Report - A list of finalised receipts by date and batch.
- - MYOB Extract - MYOB Report.
+ - General Ledger Extract - Extract transactions by a date range configured for your accounting system.
  - Actuary Report - Generate report for actuarial review.
 
 Returns
