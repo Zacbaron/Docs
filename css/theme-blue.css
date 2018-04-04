@@ -68,6 +68,10 @@ a.navbar-brand:hover {
     border-color: #248ec2 !important;
 }
 
+.btn {
+    padding: 30px 12px;
+}
+
 .btn-primary {
     color: #ffffff;
     background-color: #347DBE;
