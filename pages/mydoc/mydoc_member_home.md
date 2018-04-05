@@ -15,3 +15,6 @@ The Home page displays an overall summary of the member details and recent activ
 {% include image.html file="backoffice/memberhome.png" alt="Member Home" caption="Member Home" %}
 
 MEMBER CRM enables a back office operator to impersonate a member on the portal (with limited functionality). This feature allows an operator to log into the portal on behalf of the member to assist in supporting members when using the portal.
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_administration.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_contributions.html" role="button">Next</a>
