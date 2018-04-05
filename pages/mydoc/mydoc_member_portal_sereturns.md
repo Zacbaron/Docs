@@ -17,3 +17,6 @@ The SE Returns page displays a detailed list of all SE Returns associated to the
 SE Returns are simple to understand. Once finalised, invoice details and payment information is displayed.
 
 {% include image.html file="portal/memberreturnview.png" alt="Member Return View" caption="Member Portal Return View" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_member_portal_entitlements.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_portal_contactus.html" role="button">Next</a>
