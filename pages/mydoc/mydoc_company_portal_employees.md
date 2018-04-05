@@ -15,3 +15,6 @@ A list of employees associated to the company is displayed. Companies are able t
 {% include image.html file="portal/companyemployees.png" alt="Company Employees" caption="Company Portal Employees" %}
 
 From this page companies are also able to create to employees for the company.
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_company_portal_returns.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_company_portal_profileandcontacts.html" role="button">Next</a>
