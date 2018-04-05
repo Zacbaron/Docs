@@ -15,3 +15,6 @@ MEMBER CRM displays a comprehensive list of a members contributions. Back office
 {% include image.html file="backoffice/membercontributions.png" alt="Member Contributions" caption="Member Contributions" %}
 
 A member’s contribution history is also made available to a member via the member portal.
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_member_home.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_entitlements.html" role="button">Next</a>
