@@ -15,3 +15,6 @@ MEMBER CRM enables a member to associate one or more contacts for their account.
 {% include image.html file="portal/membercontacts.png" alt="Member Contacts" caption="Member Portal Contacts" %}
 
 Member CRM also keeps an audit of all members, current and archived, in a list to view at any time.
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_member_portal_mydetails.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_portal_member_card.html" role="button">Next</a>
