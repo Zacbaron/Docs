@@ -19,3 +19,6 @@ The SE Returns page displays a list of SE returns associated to a member. MEMBER
 {% include image.html file="backoffice/memberreturnview.png" alt="Member Rerturn View" caption="Member Return View" %}
 
 Back office operators are also able to create new SE Returns, or view the SE Returns more in depth, and view associated invoices and receipts for a return.
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_member_entitlements.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_finance.html" role="button">Next</a>
