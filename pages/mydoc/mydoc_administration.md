@@ -27,3 +27,5 @@ List Management
 - System administrators can update a variety of lists and where available, configure system functionality within those lists.
 Scheduled Tasks - There are many scheduled tasks which are performed by the system on a periodic basis, which are available for administrators to view and report for audit purposes.
 
+<a class="btn btn-default btn-lg pull-left" href="mydoc_company_finance.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_member_home.html" role="button">Next</a>
