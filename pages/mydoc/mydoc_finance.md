@@ -24,3 +24,6 @@ Some of the key features of Member CRM finance are listed below:
  - Bank file integration - ABA file export.
 
 {% include image.html file="backoffice/finance.png" alt="Finance" caption="Finance" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_company_member_search.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_operations.html" role="button">Next</a>
