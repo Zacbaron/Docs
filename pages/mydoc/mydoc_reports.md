@@ -44,3 +44,6 @@ Audit
  - Activity Feed Report - Generate activity feed data.
 
 {% include image.html file="backoffice/reports.png" alt="Reports" caption="Reports" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_operations.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_company_home.html" role="button">Next</a>
