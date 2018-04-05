@@ -18,5 +18,5 @@ The back office operator can also filter the list by either Active, Inactive or 
 
 The Search page also displays recently accessed members or companies through the system, and can also be extended to show up to 20 results. The Company search function also enables operators to search by company contacts.
 
-<a class="btn btn-default btn-lg" href="mydoc_dashboard_and_menu_overview.html" role="button">Previous</a>
+<a class="btn btn-default btn-lg pull-left" href="mydoc_dashboard_and_menu_overview.html" role="button">Previous</a>
 <a class="btn btn-primary btn-lg pull-right" href="mydoc_finance.html" role="button">Next</a>
