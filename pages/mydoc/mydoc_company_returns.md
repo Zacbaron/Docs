@@ -19,3 +19,6 @@ To ensure back office operators do not overwrite adjustments to a return, an ope
 {% include image.html file="backoffice/companyreturnslist.png" alt="Company Returns List" caption="Company Returns List" %}
 
 {% include image.html file="backoffice/companyreturnview.png" alt="Company Return View" caption="Company Return View" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_company_home.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_company_employees.html" role="button">Next</a>
