@@ -24,3 +24,6 @@ The Operations dashboard is a hub for back office operators to be able to move s
 
 
 {% include image.html file="backoffice/operations.png" alt="Operations" caption="Operations" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_finance.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_reports.html" role="button">Next</a>
