@@ -19,3 +19,6 @@ Member CRM enables companies to view and edit company details via the portal. Th
 The Addresses page enables a company to view and edit the street and postal addresses. All addresses for a company are audited so companies are able to view previous addresses at any time.
 
 {% include image.html file="portal/companyaddresses.png" alt="Company Addresses" caption="Company Portal Addresses" %}
+
+<a class="btn btn-default btn-lg pull-left" href="mydoc_company_portal_employees.html" role="button">Previous</a>
+<a class="btn btn-primary btn-lg pull-right" href="mydoc_company_portal_contactus.html" role="button">Next</a>
