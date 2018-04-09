@@ -16,13 +16,11 @@ The best way to view this document is to turn off the side menu with the switch 
 <img src="images/backoffice/search.png" alt="Search" /> The search bar to find any topic within Worker CRM.
 
 <br/>
-
 ___
 
 The side menu to move to any topic at any time. <img src="images/backoffice/sidemenu.png" alt="Side Menu" />
 
 ___
-
 <br/>
 
 <img src="images/backoffice/downarrow2.png" alt="Down Arrow" /> And use the navigation buttons at the bottom of the page. <img src="images/backoffice/downrightarrow.png" alt="Down Arrow" />
