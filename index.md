@@ -27,4 +27,4 @@ Formation Technology has been delivering Worker Entitlement CRM solutions to gov
 Worker CRM is a versatile CRM system built from years of firsthand experience in delivering tailored IT solutions for worker entitlement funds across multiple industries in Australia. 
 Our detailed understanding and practical experience in servicing the specific needs of an entitlement funds, its employees, and employers, means that Worker CRM is the complete solution to manage your long term operating needs.
 
-<a class="btn btn-primary btn-lg pull-right" href="mydoc_getting_started.html" role="button">Getting Started</a>
+<a class="btn btn-primary btn-lg center-block" href="mydoc_getting_started.html" role="button">Getting Started</a>
