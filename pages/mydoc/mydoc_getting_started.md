@@ -13,7 +13,7 @@ toc: false
 The best way to view this document is to turn off the side menu with the switch on the top bar.
 {% include image.html file="backoffice/navbar.png" alt="Navbar" caption="Navbar" %}
 
-<img src="images/backoffice/search.png" alt="Search" />The search bar to find any topic within Worker CRM
+<img src="images/backoffice/search.png" alt="Search" /> The search bar to find any topic within Worker CRM.
 
 <br/>
 ***
