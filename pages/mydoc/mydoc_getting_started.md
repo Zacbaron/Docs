@@ -13,6 +13,10 @@ toc: false
 The best way to view this overview site is to turn off the side menu with the switch on the top bar.
 {% include image.html file="backoffice/navbar.png" alt="Navbar" caption="Navbar" %}
 
+<br/>
+
+___
+
 <img src="images/backoffice/search.png" alt="Search" /> The search bar can be use to find any topic within the site.
 
 <br/>
