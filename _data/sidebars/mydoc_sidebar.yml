@@ -27,7 +27,11 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
-      
+
+    - title: Getting Started
+      url: /getting_started.html
+      output: web, pdf
+
   - title: Back Office
     output: web, pdf
     folderitems:
