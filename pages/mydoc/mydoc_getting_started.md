@@ -10,10 +10,10 @@ toc: false
 
 ### Getting Started
 
-The best way to view this document is to turn off the side menu with the switch on the top bar.
+The best way to view this overview site is to turn off the side menu with the switch on the top bar.
 {% include image.html file="backoffice/navbar.png" alt="Navbar" caption="Navbar" %}
 
-<img src="images/backoffice/search.png" alt="Search" /> The search bar to find any topic within Worker CRM.
+<img src="images/backoffice/search.png" alt="Search" /> The search bar can be use to find any topic within the site.
 
 <br/>
 
