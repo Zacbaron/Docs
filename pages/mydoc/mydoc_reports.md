@@ -10,7 +10,7 @@ toc: false
 
 ### Reports Summary
 
-The Reports dashboard conveniently displays all the reports provided by MEMBER CRM. A back office operator is able to generate these reports either ad hoc or automatically through MEMBER CRM’s report management system.
+The Reports dashboard conveniently displays all the reports provided by Worker CRM. A back office operator is able to generate these reports either ad hoc or automatically through MEMBER CRM’s report management system.
 
 The available reports to generate are:
 

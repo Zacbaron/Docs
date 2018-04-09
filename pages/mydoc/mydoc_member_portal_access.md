@@ -8,7 +8,7 @@ folder: mydoc
 toc: false
 ---
 
-Member CRM enables a first time user of the portal to register for online access. A member must insert their registration number, surname and date of birth. Once the member has logged in, they are prompted to accept terms and conditions, configure security features (such as password etc) and update their profiles (i.e. address, mobile etc).
+Worker CRM enables a first time user of the portal to register for online access. A member must insert their registration number, surname and date of birth. Once the member has logged in, they are prompted to accept terms and conditions, configure security features (such as password etc) and update their profiles (i.e. address, mobile etc).
 
 {% include image.html file="portal/memberlogin.png" alt="Member Login" caption="Member Login" %}
 

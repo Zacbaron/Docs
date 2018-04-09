@@ -10,7 +10,7 @@ toc: false
 
 ### Member Contributions Summary
 
-MEMBER CRM displays a comprehensive list of a members contributions. Back office operators are able to view and alter the format in which the information is displayed. Views of contributions include by year, period, and employer.
+Worker CRM displays a comprehensive list of a members contributions. Back office operators are able to view and alter the format in which the information is displayed. Views of contributions include by year, period, and employer.
 
 {% include image.html file="backoffice/membercontributions.png" alt="Member Contributions" caption="Member Contributions" %}
 

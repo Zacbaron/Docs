@@ -10,7 +10,7 @@ toc: false
 
 ### My Member Card
 
-If a fund requires members to have identity cards, MEMBER CRM has the functionality to issue member cards. When a member is logged into the portal, they can cancel lost cards and request / reissue a new card. 
+If a fund requires members to have identity cards, Worker CRM has the functionality to issue member cards. When a member is logged into the portal, they can cancel lost cards and request / reissue a new card. 
 
 {% include image.html file="portal/membercard.png" alt="Member Card" caption="Member Portal Member Card" %}
 

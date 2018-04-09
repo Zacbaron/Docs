@@ -11,7 +11,7 @@ toc: false
 ### Company Finance Summary
 
 The Finance page displays a comprehensive list of transactions associated to a company.
-MEMBER CRM provides back office operators the ability to view financial information by transactions date, returns or invoices. All transactions have hyperlinks attached to them, so a back office operator is able to navigate to a specific return or transaction with ease.
+Worker CRM provides back office operators the ability to view financial information by transactions date, returns or invoices. All transactions have hyperlinks attached to them, so a back office operator is able to navigate to a specific return or transaction with ease.
 
 {% include image.html file="backoffice/companyfinance.png" alt="Company Finance" caption="Company Finance" %}
 

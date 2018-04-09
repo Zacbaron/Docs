@@ -10,7 +10,7 @@ toc: false
 
 ### Company Portal Company Profile and Contacts
 
-Member CRM enables companies to view and edit company details via the portal. This includes the ability to view, edit, and create new contacts from this page and assign permissions to log into the portal. 
+Worker CRM enables companies to view and edit company details via the portal. This includes the ability to view, edit, and create new contacts from this page and assign permissions to log into the portal. 
 
 {% include image.html file="portal/companyprofile.png" alt="Company Profile" caption="Company Portal Profile" %}
 

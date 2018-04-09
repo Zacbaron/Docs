@@ -14,7 +14,7 @@ The company home page displays an overview of the company profile. The dashboard
 
 {% include image.html file="backoffice/companyhome.png" alt="Company Home" caption="Company Home" %}
 
-MEMBER CRM enables back office operators to impersonate a company on the portal (with limited functionality). This feature allows an operator to log into the portal on behalf of the company to assist in supporting companies when using the portal.
+Worker CRM enables back office operators to impersonate a company on the portal (with limited functionality). This feature allows an operator to log into the portal on behalf of the company to assist in supporting companies when using the portal.
 
 <a class="btn btn-default btn-lg pull-left" href="mydoc_reports.html" role="button">Previous</a>
 <a class="btn btn-primary btn-lg pull-right" href="mydoc_company_returns.html" role="button">Next</a>

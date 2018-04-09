@@ -10,7 +10,7 @@ toc: false
 
 ### Contact Us
 
-Member CRM features a facility to enable members to communicate directly and securely with the fund.
+Worker CRM features a facility to enable members to communicate directly and securely with the fund.
 
 {% include image.html file="portal/membercontactus.png" alt="Member Contact Us" caption="Member Portal Contact Us" %}
 

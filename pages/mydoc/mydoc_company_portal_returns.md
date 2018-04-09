@@ -10,7 +10,7 @@ toc: false
 
 ### Company Portal Returns
 
-Member CRM displays a detailed list of all returns associated to a company. Companies are able to easily navigate the list by the return status, displaying which returns require attention, are being processed by the back office, and which have been paid.
+Worker CRM displays a detailed list of all returns associated to a company. Companies are able to easily navigate the list by the return status, displaying which returns require attention, are being processed by the back office, and which have been paid.
 
 {% include image.html file="portal/companyreturnlist.png" alt="Company Returns List" caption="Company Portal Returns List" %}
 
@@ -22,7 +22,7 @@ The return image below displays the page a user will be presented with when edit
 
 {% include image.html file="portal/companyreturnedit.png" alt="Company Return Edit" caption="Company Portal Return Edit" %}
 
-Member CRM also provides a facility to export and import return contribution data via a spreadsheet. A spreadsheet with contribution data for each worker is presented in a Microsoft Excel format. The user will download the spreadsheet to their computer, edit the spreadsheet, save it and upload it to Member CRM.
+Worker CRM also provides a facility to export and import return contribution data via a spreadsheet. A spreadsheet with contribution data for each worker is presented in a Microsoft Excel format. The user will download the spreadsheet to their computer, edit the spreadsheet, save it and upload it to Worker CRM.
 
 <a class="btn btn-default btn-lg pull-left" href="mydoc_company_portal_dashboard.html" role="button">Previous</a>
 <a class="btn btn-primary btn-lg pull-right" href="mydoc_company_portal_employees.html" role="button">Next</a>

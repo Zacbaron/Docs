@@ -12,7 +12,7 @@ toc: false
 
 Self Employed Returns (SE Returns) are generated for members who are contributing as a Self Employed, Contractor or Working Director. A member may receive both Self Employed Contribution and Company (i.e. payroll) contributions from one or more companies in any period.  
 
-The SE Returns page displays a list of SE returns associated to a member. MEMBER CRM displays returns in their different states, allowing a back office operator to intuitively see which returns are open, being edited, or have been finalised and paid out.
+The SE Returns page displays a list of SE returns associated to a member. Worker CRM displays returns in their different states, allowing a back office operator to intuitively see which returns are open, being edited, or have been finalised and paid out.
 
 {% include image.html file="backoffice/membersereturnslist.png" alt="Member SE Returns List" caption="Member SE Returns List" %}
 

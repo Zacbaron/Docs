@@ -16,7 +16,7 @@ The Dashboard displays company returns, outstanding invoices and recent activity
 
 The company portal menu provides easy access to navigate to key areas of the portal. The top menu allows companies to manage their account, view their recent activity on their account, change their password, and log off.
 
-Member CRM has a wonderful feature for bookkeepers or users that manage multiple companies. It provides the functionality to support a contact (i.e. with the same email address) that is associated to multiple companies - i.e. the user can switch between each company without logging in / out of each profile. This feature will automatically appear if required in the top menu.
+Worker CRM has a wonderful feature for bookkeepers or users that manage multiple companies. It provides the functionality to support a contact (i.e. with the same email address) that is associated to multiple companies - i.e. the user can switch between each company without logging in / out of each profile. This feature will automatically appear if required in the top menu.
 
 <a class="btn btn-default btn-lg pull-left" href="mydoc_company_portal_registration.html" role="button">Previous</a>
 <a class="btn btn-primary btn-lg pull-right" href="mydoc_company_portal_returns.html" role="button">Next</a>

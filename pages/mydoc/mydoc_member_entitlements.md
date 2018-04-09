@@ -10,7 +10,7 @@ toc: false
 
 ### Member Entitlements Summary
 
-MEMBER CRM displays a list of claims for a member. Back office operators can view, edit or delete previous claims, as well as create new claims.
+Worker CRM displays a list of claims for a member. Back office operators can view, edit or delete previous claims, as well as create new claims.
 
 Each claim displayed their state of completion and provides links to enable a back office operator to manage a claim from creation, approval, verification and payment.
 
