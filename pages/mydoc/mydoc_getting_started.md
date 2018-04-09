@@ -10,7 +10,7 @@ toc: false
 
 ### Getting Started
 
-The best way to view this document is to turn off the side menu with the switch on the top bar <img src="images/backoffice/uparrow.png" alt="arrow" />
+The best way to view this document is to turn off the side menu with the switch on the top bar <img src="images/backoffice/uparrow2.png" alt="arrow" />
 
 
 {% include image.html file="backoffice/uparrow.png" alt="Arrow" %}
