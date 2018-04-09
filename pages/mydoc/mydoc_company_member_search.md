@@ -10,7 +10,9 @@ toc: false
 
 ### Company / Member Search
 
-{% include image.html file="backoffice/search.png" alt="Member / Company Search" caption="Member / Company Search" %}
+{% include image.html file="backoffice/companysearch.png" alt="Company Search" caption="Company Search" %}
+
+{% include image.html file="backoffice/membersearch.png" alt="Member Search" caption="Member Search" %}
 
 Worker CRM features a keyword search function that is available for both members and companies. A back office operator is able to enter in any information regarding a member or company, for instance a name, phone number, address, registration ID etc. 
 
