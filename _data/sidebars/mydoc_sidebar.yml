@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: Getting Started
-      url: /getting_started.html
+      url: /mydoc_getting_started.html
       output: web, pdf
 
   - title: Back Office
