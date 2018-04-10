@@ -16,6 +16,7 @@ toc: false
 
 ___
 
+
 The side menu to move to any topic at any time. <img src="images/backoffice/sidemenu.png" alt="Side Menu" />
 
 ___
@@ -25,9 +26,9 @@ ___
 To view the page in a larger format, turn off the side menu with the switch on the top bar.
 {% include image.html file="backoffice/navbar.png" alt="Navbar" caption="Navbar" %}
 
-___
-
 <br/>
+
+___
 
 <img src="images/backoffice/downarrow2.png" alt="Down Arrow" /> Use the navigation buttons at the bottom of the page. <img src="images/backoffice/downrightarrow.png" alt="Down Arrow" />
 
