@@ -10,25 +10,16 @@ toc: false
 
 ### Getting Started
 
-<br/>
-
 <img src="images/backoffice/search.png" alt="Search" /> The search bar can be use to find any topic within the site.
 
-<br/>
-
 ___
-
 
 The side menu to move to any topic at any time. <img src="images/backoffice/sidemenu.png" alt="Side Menu" />
 
 ___
 
-<br/>
-
 To view the page in a larger format, turn off the side menu with the switch on the top bar.
 {% include image.html file="backoffice/navbar.png" alt="Navbar" %}
-
-<br/>
 
 ___
 
