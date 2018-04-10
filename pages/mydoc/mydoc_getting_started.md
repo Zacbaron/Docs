@@ -10,6 +10,8 @@ toc: false
 
 ### Getting Started
 
+<br/>
+
 <img src="images/backoffice/search.png" alt="Search" /> The search bar can be use to find any topic within the site.
 
 <br/>
@@ -24,7 +26,7 @@ ___
 <br/>
 
 To view the page in a larger format, turn off the side menu with the switch on the top bar.
-{% include image.html file="backoffice/navbar.png" alt="Navbar" caption="Navbar" %}
+{% include image.html file="backoffice/navbar.png" alt="Navbar" %}
 
 <br/>
 
