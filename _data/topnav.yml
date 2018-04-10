@@ -3,6 +3,8 @@
 topnav:
 - title: Topnav
   items:
+    - title: Feedback & Support
+      external_url: <a href="mailto:support@formation.com?subject=Feedback and Support">Email Us</a>
 
 #Topnav dropdowns
 topnav_dropdowns:
