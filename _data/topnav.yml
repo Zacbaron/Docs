@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Feedback & Support
-      external_url: mailto:support@formation.com
+      external_url: mailto:support@formation.com.au
 
 #Topnav dropdowns
 topnav_dropdowns:
